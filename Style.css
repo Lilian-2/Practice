@@ -64,7 +64,7 @@ nav a{
 .card{
     display:flex;
     gap:20px;
-    background:white;
+    background:blue;
     padding:15px;
     margin-bottom:10px;
     border:2px solid #d6d65b;
@@ -81,7 +81,7 @@ nav a{
     flex:1;
     padding:20px;
     border:2px solid purple;
-    background-image:url('https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg');
+    background-image:netflix,jpg;
     background-size:cover;
     background-position:center;
     color:black;
